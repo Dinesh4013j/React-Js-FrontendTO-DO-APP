@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "visit balachandra.in"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "blockchain"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "AI"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "grow Money"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "give money"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "earn money"
+    },
+    {
+      "id": 7,
+      "checked": true,
+      "item": "dinesh"
+    }
+  ]
+}
