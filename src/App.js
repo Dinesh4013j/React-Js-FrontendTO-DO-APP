@@ -20,6 +20,7 @@ const [isLoading,setIsLoading]=useState(true)
 useEffect(()=>{
   const fetchItems=async()=>{
     try{
+      console.log("hello world")
       const response= await fetch(API_URL);
       if(!response.ok) throw Error("data not received");
       console.log(response);
