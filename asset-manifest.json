@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Js-FrontendTO-DO-APP/static/css/main.cc6bf8ef.css",
+    "main.js": "/React-Js-FrontendTO-DO-APP/static/js/main.043571e5.js",
+    "index.html": "/React-Js-FrontendTO-DO-APP/index.html",
+    "main.cc6bf8ef.css.map": "/React-Js-FrontendTO-DO-APP/static/css/main.cc6bf8ef.css.map",
+    "main.043571e5.js.map": "/React-Js-FrontendTO-DO-APP/static/js/main.043571e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6bf8ef.css",
+    "static/js/main.043571e5.js"
+  ]
+}
